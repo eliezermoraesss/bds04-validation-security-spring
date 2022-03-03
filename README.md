@@ -1,5 +1,5 @@
 # 👨🏼‍💻 Bootcamp Desenvolvedor Fullstack Spring React 3.0 - Cap. 03
-## Tarefa resolvida - Validação e segurança
+## ✔ Tarefa resolvida - Validação e segurança
 
 ## 🚀 Collection Postman
 Segue abaixo o link da minha collection do Postman personalizada para realização de testes da API.
