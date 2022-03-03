@@ -1,13 +1,13 @@
-# Bootcamp Desenvolvedor Fullstack Spring React 3.0 - Cap. 03
+# 👨🏼‍💻 Bootcamp Desenvolvedor Fullstack Spring React 3.0 - Cap. 03
 ## Tarefa resolvida - Validação e segurança
 
-## Collection Postman
+## 🚀 Collection Postman
 Segue abaixo o link da minha collection do Postman personalizada para realização de testes da API.
 É só realizar a importação dentro do Postman.
 
 https://www.getpostman.com/collections/c078861355c8c0b29ed6
 
-### Competências
+### 🍃 Competências
 <ul>
  <li>Modelo de dados de usuários e perfis
 <li>Validação com Bean Validation
@@ -23,7 +23,7 @@ https://www.getpostman.com/collections/c078861355c8c0b29ed6
 <li>Variáveis de ambiente no projeto com coalescência
   </ul>
   
-### Tecnologias utilizadas
+### 💻 Tecnologias utilizadas
 <ul>
   <li>Bean Validation
   <li>Spring Security
